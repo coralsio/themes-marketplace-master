@@ -1,5 +1,3 @@
-# themes-marketplace-master
-
 ## Installation 
 1 - download the repository as zip file.
 
