@@ -44,7 +44,7 @@
                 @if(\Settings::get('cms_comments_enabled'))
                     <div class="row">
                         <div class="col-md-12">
-                            @include('CMS::partials.comments',['comments'=>$item->publishedComments])
+                            @include('cms::partials.comments',['comments'=>$item->publishedComments])
                         </div>
                     </div>
                 @endif
